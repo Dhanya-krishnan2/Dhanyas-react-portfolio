@@ -62,10 +62,10 @@ function Blog() {
           />
         <div className="row">
           <PortfolioCard
-            name={projects[6].name}
-            image={projects[6].image}
-            project={projects[6].project}
-            location={projects[6].location}
+            name={projects[7].name}
+            image={projects[7].image}
+            project={projects[7].project}
+            location={projects[7].location}
           />
           </div>
         
