@@ -1,4 +1,6 @@
 {
+  
+  "homepage": "https://dhanya-krishnan2.github.io/Dhanyas-react-portfolio",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +18,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://Dhanya-krishnan2.github.io/Dhanyas-react-portfolio",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -42,6 +44,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "author": "",
+  "author": "Dhanya Kunhikrishnan",
   "license": "ISC"
 }
