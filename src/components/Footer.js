@@ -6,7 +6,7 @@ function Footer(props) {
     return (
 
         <div class="footer bg-info">
-            <p>Dhanya kunhikrishnan</p>
+            <p>Dhanya Kunhikrishnan</p>
         </div>
 
     );

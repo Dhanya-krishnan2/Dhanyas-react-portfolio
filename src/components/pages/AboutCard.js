@@ -12,8 +12,8 @@ function AboutCard() {
 
                 <div>
 
-                    <p>I am a Fullstack Developer and administrative professional
-                                                with 8+ years
+                    <p>I am a Fullstack Developer and teacher-assistant 
+                                                with many years
                                                 of
                                                 experience in various sectors.</p>
                     <p>Recognized for demonstrating independent discipline,

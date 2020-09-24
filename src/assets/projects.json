@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Eat-da-Burger",
-    "image": "https://github.com/Dhanya-krishnan2/ORM-burger/blob/master/images/eatdaburger.png",
+    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-29%20(2).png",
     "project": "Eat-da-burger",
     "location": "https://protected-plateau-07296.herokuapp.com/"
   },
   {
     "id": 2,
     "name": "Coding Quiz",
-    "image": "https://github.com/Dhanya-krishnan2/quizapplication/blob/master/2020-06-04%20(1).png",
+    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-29%20(10).png",
     "project": "Javascript Quiz",
     "location": "https://dhanya-krishnan2.github.io/quizapplication/"
   },
@@ -18,12 +18,12 @@
     "name": "Password Generator",
     "image": "https://github.com/dhanya-krishnan/React-Portfolio/blob/master/src/assets/Password-Generator.png?raw=true",
     "project": "Random Password generator",
-    "location": "https://jamierachael.github.io/Password-Generator/"
+    "location": "https://dhanya-krishnan2.github.io/passwordgenarater/"
   },
   {
     "id": 4,
     "name": "Eco-Meetup",
-    "image": "https://github.com/Dhanya-krishnan2/Lucky-Nine-2/blob/master/public/images/2020-08-21%20(1).png",
+    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-21.png",
     "project": "This event is the organiser of cleaning the enviornment",
     "location": "https://murmuring-bayou-85480.herokuapp.com/"
   },
@@ -36,23 +36,23 @@
   },
   {
     "id": 6,
-    "name": "Work Day Scheduler",
+    "name": "User-directory",
     "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-06-08.png",
-    "project": "A Daily Agenda",
-    "location": "https://dhanya-krishnan2.github.io/dayplanner-list/"
+    "project": "It stores the details of all the employees details and search it up as they needed",
+    "location": " https://dhanya-krishnan2.github.io/Employee-directory/"
   },
   {
     "id": 7,
-    "name": "Work Day Scheduler",
-    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-06-08.png",
-    "project": "A Daily Agenda",
-    "location": "https://dhanya-krishnan2.github.io/dayplanner-list/"
+    "name": "Fitness-Tracker",
+    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-09-11.png",
+    "project": "Here we can check your excercise, and keep track your daily routines",
+    "location": "https://immense-brook-41687.herokuapp.com/stats"
   },
   {
     "id": 8,
-    "name": "Work Day Scheduler",
-    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-06-08.png",
-    "project": "A Daily Agenda",
-    "location": "https://dhanya-krishnan2.github.io/dayplanner-list/"
+    "name": "Covid-19 Hub",
+    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-08-29(4).png",
+    "project": "A Covid checklist and news updater",
+    "location": "https://ong-osmond.github.io/Lucky_Nine/"
   }
 ]

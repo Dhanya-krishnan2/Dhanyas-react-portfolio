@@ -12,7 +12,7 @@ function Learn() {
         <div className="card-content">
           <a href="tel:+61411287645" className="ml-4 mt-4 font-weight-bold">Phone</a>
 
-          <a href="mailto:webmaster@jamie.rachael@gmail.com" className="ml-4 mt-4 font-weight-bold">Email</a>
+          <a href="mailto:webmaster@dhanyakunhi@gmail.com" className="ml-4 mt-4 font-weight-bold">Email</a>
 
           <a href="https://www.linkedin.com/in/dhanya-krishnan-2039051a3/" className="ml-4 mt-4 font-weight-bold">LinkedIn</a>
 
