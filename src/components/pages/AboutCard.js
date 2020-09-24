@@ -32,10 +32,10 @@ function AboutCard() {
                         be reached
                         through this portfolio, by
                         email:
-                                                <a href="mailto:jamie.rachael@gmail.com"
-                            target="_blank">jamie.rachael@gmail.com, </a> through<a
-                                href="https://github.com/jamierachael"> GitHub</a>, or through <a
-                                    href="https://www.linkedin.com/in/jamie-rachael-morris/">
+                                                <a href="mailto:dhanyakunhi@gmail.com"
+                            target="_blank">dhanyakunhi@gmail.com, </a> through<a
+                                href="https://github.com/Dhanya-krishnan2"> GitHub</a>, or through <a
+                                    href="https://www.linkedin.com/in/dhanya-krishnan-2039051a3/">
                             LinkedIn.</a>
                         Cheers!
 
@@ -43,8 +43,8 @@ function AboutCard() {
                 </div>
 
                 <div className="card-body contactLinks">
-                    <a href="https://www.linkedin.com/in/jamie-rachael-morris/" className="card-link">LinkedIn</a>
-                    <a href="https://github.com/jamierachael" className="card-link">GitHub</a>
+                    <a href="https://www.linkedin.com/in/dhanya-krishnan-2039051a3/" className="card-link">LinkedIn</a>
+                    <a href="https://github.com/Dhanya-krishnan2" className="card-link">GitHub</a>
                 </div>
             </div>
             {/* end copy paste  */}

@@ -32,7 +32,6 @@ function Blog() {
             project={projects[2].project}
             location={projects[2].location}
           />
-
           <PortfolioCard
             name={projects[3].name}
             image={projects[3].image}
@@ -40,23 +39,37 @@ function Blog() {
             location={projects[3].location}
           />
         </div>
-
         <div className="row">
-
           <PortfolioCard
             name={projects[4].name}
             image={projects[4].image}
             project={projects[4].project}
             location={projects[4].location}
           />
-
           <PortfolioCard
             name={projects[5].name}
             image={projects[5].image}
             project={projects[5].project}
             location={projects[5].location}
           />
-
+        </div>
+        <div className="row">
+          <PortfolioCard
+            name={projects[6].name}
+            image={projects[6].image}
+            project={projects[6].project}
+            location={projects[6].location}
+          />
+        <div className="row">
+          <PortfolioCard
+            name={projects[6].name}
+            image={projects[6].image}
+            project={projects[6].project}
+            location={projects[6].location}
+          />
+          </div>
+        
+          
         </div>
       </div>
 
