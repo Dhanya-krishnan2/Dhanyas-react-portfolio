@@ -2,56 +2,56 @@
   {
     "id": 1,
     "name": "Eat-da-Burger",
-    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-29%20(2).png",
-    "project": "Eat-da-burger",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-08-29%20(2).png",
+    "project": "This projects lets the user to add and delete and devour the burger",
     "location": "https://protected-plateau-07296.herokuapp.com/"
   },
   {
     "id": 2,
     "name": "Coding Quiz",
-    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-29%20(10).png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-08-29%20(10).png",
     "project": "Javascript Quiz",
     "location": "https://dhanya-krishnan2.github.io/quizapplication/"
   },
   {
     "id": 3,
     "name": "Password Generator",
-    "image": "https://github.com/dhanya-krishnan/React-Portfolio/blob/master/src/assets/Password-Generator.png?raw=true",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/Password-Generator.png",
     "project": "Random Password generator",
     "location": "https://dhanya-krishnan2.github.io/passwordgenarater/"
   },
   {
     "id": 4,
     "name": "Eco-Meetup",
-    "image": "https://github.com/Dhanya-krishnan2/Dhanyas-react-portfolio/blob/master/src/assets/2020-08-21.png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-08-21.png",
     "project": "This event is the organiser of cleaning the enviornment",
     "location": "https://murmuring-bayou-85480.herokuapp.com/"
   },
   {
     "id": 5,
     "name": "Weather Dashboard",
-    "image": "https://github.com/Dhanya-krishnan2/weather-dashboard/blob/master/2020-06-18.png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-08-29%20(7).png",
     "project": "A Weather Tracking App",
     "location": "https://dhanya-krishnan2.github.io/weather-dashboard/"
   },
   {
     "id": 6,
     "name": "User-directory",
-    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-06-08.png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-09-16%20(1).png",
     "project": "It stores the details of all the employees details and search it up as they needed",
     "location": " https://dhanya-krishnan2.github.io/Employee-directory/"
   },
   {
     "id": 7,
     "name": "Fitness-Tracker",
-    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-09-11.png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-09-11%20(1).png",
     "project": "Here we can check your excercise, and keep track your daily routines",
     "location": "https://immense-brook-41687.herokuapp.com/stats"
   },
   {
     "id": 8,
     "name": "Covid-19 Hub",
-    "image": "https://github.com/Dhanya-krishnan2/dayplanner-list/blob/master/2020-08-29(4).png",
+    "image": "https://raw.githubusercontent.com/Dhanya-krishnan2/Dhanyas-react-portfolio/master/src/assets/2020-08-29%20(4).png",
     "project": "A Covid checklist and news updater",
     "location": "https://ong-osmond.github.io/Lucky_Nine/"
   }
